@@ -2,8 +2,7 @@
 Prediction of continuous signals data and object tracking data using dynamic Bayesian neural network. Compared with other network architectures aswell.
 
 ## Software Required
-1. Matlab 2016a and above
-2. Matlab Neural Netowrk Toolbox
+- Matlab 2016a and above
 
 ## Data used
 Two types of data were used and code for them is slightly different 
